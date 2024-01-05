@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <title>POSITION IN CSS</title>
+        <style>
+            .a{
+                height:300px;
+                width:300px;
+                border:3px solid red;
+                background-color:skyblue;
+                float: left;
+                position:static;
+
+            }
+            .b{
+                height:300px;
+                width:300px;
+                border:3px solid blue;
+                background-color:skyblue;
+                float: left;
+                position:relative;
+                top: 50px;
+                left:30px;
+
+
+            }
+            .c{
+                height:200px;
+                width:200px;
+                border:3px solid  green;
+                background-color:skyblue;
+                float: left;
+                position:absolute;
+                top:80px;
+                left:50px;
+
+
+            }
+            .parent{
+                height:400px;
+                width:400px;
+                border:3px dotted yellow;
+                position: relative;
+
+
+            }
+            .d{
+                height:200px;
+                width:200px;
+                border:3px solid yellow;
+                background-color:skyblue;
+                float: left;
+                position: fixed;
+                bottom:0px;
+                right:0px;
+
+            }
+           .e{
+                height:50px;
+                width:100%;
+                border:3px solid yellow;
+                background-color:skyblue;
+                float: left;
+
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="a">
+            <h4>Static</h4>
+        </div>
+        <div class="b">
+            <h4>Relative</h4>
+        </div>
+        <div class="parent">
+            <div class="c">
+                <h4>absolute</h4>
+            </div>
+        </div>
+        <div class="d">
+            <h4>fixed</h4>
+        </div>
+        <div class="e">
+            <h4>Sticky</h4>
+        </div>
+    </body>
+</html>

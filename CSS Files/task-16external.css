@@ -1,0 +1,569 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.a
+{
+    height:40px;
+    width:1525px;
+    background-color: white;
+    margin-top: 10px;
+   
+}
+.b
+{
+    background-color: lawngreen;
+    border-color: lawngreen;
+    border-radius: 5px;
+    /* font-size: 20px; */
+    color: white;
+    text-align: center;
+    padding: 10px 12px;
+}
+.c
+{
+    background-color: skyblue;
+    border-color: skyblue;
+    border-radius: 5px;
+    /* font-size: 20px; */
+    color: white;
+    text-align: center;
+    padding: 10px 32px;
+}
+.d
+{
+    background-color: red;
+    border-color: red;
+    border-radius: 5px;
+    /* font-size: 20px; */
+    color: white;
+    text-align: center;
+    padding: 10px 32px;
+}
+.e{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    position: relative;
+    top: 50px;
+    left: 280px;
+    
+}
+.e1{
+    height: 90px;
+    width: 90px;
+    background-color: aqua;
+    border-radius: 45px;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+.e2{
+    color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 160px;
+    bottom: 45px;
+}
+.e3{
+    height: 237px;
+    width: 3px;
+    border: 1px solid rgb(248, 238, 238);
+    background-color: whitesmoke;
+    float: left;
+    position: relative;
+    left: 83px;
+    bottom: 40px;
+}
+.e4{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 50px;
+    right:6px ;
+}
+.e5{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 110px;
+    right:6px ;
+}
+.e6{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 170px;
+    right:6px ;
+}
+.e7{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+}
+.e8{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    bottom: 20px;  
+}
+.e9{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    bottom: 10px;
+
+}
+.e10{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 17px;
+}
+.e11{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    top: 3px;  
+}
+.e12{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 18px;
+
+}
+.e13{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.e14{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    top: 26px;  
+}
+.e15{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+
+}
+.f{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    position: relative;
+    bottom: 348px;
+    left: 770px;
+}
+.f1{
+    height: 90px;
+    width: 90px;
+    background-color: aqua;
+    border-radius: 45px;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+.f2{
+    color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 160px;
+    bottom: 45px;
+}
+.f3{
+    height: 237px;
+    width: 3px;
+    border: 1px solid rgb(248, 238, 238);
+    background-color: whitesmoke;
+    float: left;
+    position: relative;
+    left: 83px;
+    bottom: 40px;
+}
+.f4{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 50px;
+    right:6px ;
+}
+.f5{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 110px;
+    right:6px ;
+}
+.f6{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 170px;
+    right:6px ;
+}
+.f7{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+}
+.f8{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    bottom: 20px;  
+}
+.f9{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    bottom: 10px;
+
+}
+.f10{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 17px;
+}
+.f11{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    top: 3px;  
+}
+.f12{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 18px;
+
+}
+.f13{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.f14{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    top: 26px;  
+}
+.f15{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+
+}
+.g{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    position: relative;
+    bottom: 295px;
+    left:  280px;
+    
+}
+.g1{
+    height: 90px;
+    width: 90px;
+    background-color: aqua;
+    border-radius: 45px;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+.g2{
+    color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 160px;
+    bottom: 45px;
+}
+.g3{
+    height: 237px;
+    width: 3px;
+    border: 1px solid rgb(248, 238, 238);
+    background-color: whitesmoke;
+    float: left;
+    position: relative;
+    left: 83px;
+    bottom: 40px;
+}
+.g4{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 50px;
+    right:6px ;
+}
+.g5{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 110px;
+    right:6px ;
+}
+.g6{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 170px;
+    right:6px ;
+}
+.g7{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+}
+.g8{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    bottom: 20px;  
+}
+.g9{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    bottom: 10px;
+
+}
+.g10{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 17px;
+}
+.g11{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    top: 3px;  
+}
+.g12{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 18px;
+
+}
+.g13{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.g14{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    top: 26px;  
+}
+.g15{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+
+}
+.h{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    position: relative;
+    bottom: 695px;
+    left: 770px;
+}
+.h1{
+    height: 90px;
+    width: 90px;
+    background-color: aqua;
+    border-radius: 45px;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+.h2{
+    color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 160px;
+    bottom: 45px;
+}
+.h3{
+    height: 237px;
+    width: 3px;
+    border: 1px solid rgb(248, 238, 238);
+    background-color: whitesmoke;
+    float: left;
+    position: relative;
+    left: 83px;
+    bottom: 40px;
+}
+.h4{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 50px;
+    right:6px ;
+}
+.h5{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 110px;
+    right:6px ;
+}
+.h6{
+    height: 13px;
+    width: 13px;
+    border: rgb(114, 238, 197);
+    background-color:rgb(94, 252, 199);
+    border-radius: 11px;
+    position: relative;
+    top: 170px;
+    right:6px ;
+}
+.h7{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+}
+.h8{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    bottom: 20px;  
+}
+.h9{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    bottom: 10px;
+
+}
+.h10{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 17px;
+}
+.h11{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    top: 3px;  
+}
+.h12{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 18px;
+
+}
+.h13{
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.h14{
+    color: rgb(111, 109, 109);
+    font-size: 12px;
+    position: relative;
+    left: 320px;  
+    top: 26px;  
+}
+.h15{
+    color: rgb(108, 106, 106);
+    font-size: 16px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}

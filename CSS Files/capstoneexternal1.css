@@ -1,0 +1,11 @@
+.heading{
+    height:50px;
+    width:1290;
+    background-color: aqua;
+}
+h3{
+    font-family:Oswald;
+    color:palevioletred;
+    font-size: xx-large;
+    /*text-align:right;*/
+}

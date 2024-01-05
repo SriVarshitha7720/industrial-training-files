@@ -1,0 +1,155 @@
+.a
+{
+    height:600px;
+    width:800px;
+    background-color:skyblue;
+}
+.b{
+    height:600px;
+    width:200px;
+    background-color:red;
+    float:left;
+}
+.c{
+    height:600px;
+    width:200px;
+    background-color:yellow;
+    float:left;
+}
+.d{
+    height:400px;
+    width:200px;
+    background-color:red;
+    float:left;
+}
+.e{
+    height:200px;
+    width:200px;
+    background-color:green;
+    float:left;
+}
+.f{
+    height:200px;
+    width:100px;
+    background-color:black;
+    float:left;
+}
+.g{
+    height:100px;
+    width:800px;
+    background-color:blue;
+}
+.h{
+    height:100px;
+    width:200px;
+    background-color:gray;
+    float:right;
+}
+.i{
+    height:50px;
+    width:200px;
+    background-color:greenyellow;
+    float:right;
+}
+.j{
+    height:50px;
+    width:100px;
+    background-color:blueviolet;
+    float:right;
+    
+}
+.k{
+    height:100px;
+    width:600px;
+    background-color:brown;
+    float:right;
+}
+.l{
+    height:400px;
+    width:600px;
+    background-color:crimson;
+    float:left;
+}
+.m{
+    height:400px;
+    width:100px;
+    background-color:aqua;
+    float:left;
+}
+.n{
+    height:200px;
+    width:100px;
+    background-color:darkorange;
+    float:left;
+}
+.o{
+    height:200px;
+    width:50px;
+    background-color:deeppink;
+    float:left;
+}
+.p{
+    height:400px;
+    width:100px;
+    background-color:indigo;
+    float:left;
+}
+.q{
+    height:400px;
+    width:400px;
+    background-color:black;
+    float:left;
+}
+.r{
+    height:100px;
+    width:400px;
+    background-color:blanchedalmond;
+    float:left;
+}
+.s{
+    height:300px;
+    width:150px;
+    background-color:crimson;
+    float:left;
+}
+.t{
+    height:100px;
+    width:150px;
+    background-color:chocolate;
+    float:left;
+}
+.u{
+    height:200px;
+    width:150px;
+    background-color:rgb(255, 64, 0);
+    float:left;
+}
+.v{
+   height:200px;
+   width:75px;
+   background-color:red;
+   float:left;
+}
+.w{
+    height:300px;
+    width:250px;
+    background-color:yellow;
+}
+.y{
+    height:300px;
+    width:150px;
+    background-color:green;
+    float:right;
+}
+.z{
+    height:100px;
+    width:150px;
+    background-color:blue;
+    float:right;
+}
+.a1{
+    height:200px;
+    width:75px;
+    background-color:aquamarine;
+    float:right;
+}

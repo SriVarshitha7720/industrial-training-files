@@ -1,0 +1,40 @@
+.external{
+font-size: 30px;
+background-color: aquamarine;
+border: 2px solid red;
+}
+#s{
+height: 300px;
+width: 200px solid red;
+background-color:blue;
+}
+span{
+color:orange;
+font-size:200px;
+font-family:'Courier New', Courier, monospace;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin:0px;
+    padding:0px;
+}
+input[type="text"]
+{
+    color:blueviolet
+}
+a[herf]/*{
+   background-color:yellow;
+}*/
+a:link{
+    color:maroon;
+}
+a:visited{
+    color: rgb(16, 241, 8);
+}
+a:hover{
+    font-size: 30px;
+    color:rebeccapurple;
+}
+a:active{
+    color:chartreuse;
+}

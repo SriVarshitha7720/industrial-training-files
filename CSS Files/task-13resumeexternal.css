@@ -1,0 +1,176 @@
+.a{
+    height:250%;
+    width:50%;
+    background-color:whitesmoke;
+    position: relative;
+    left:390px;
+}
+.b{
+    height:100%;
+    width:35%;
+    background-color: rgb(71, 65, 65);
+}
+.phn{
+    height:22px;
+    width:25px;
+    background-color:yellow;
+    position: relative;
+    left:30px;
+    top:350px;
+    padding:10px;
+    
+}
+.no{
+    text-align:30px;
+    color:white;
+    font-size:16px;
+    position: relative;
+    left:48px;
+    bottom:28px;
+}
+.mail{
+    height:22px;
+    width:25px;
+    background-color:yellow;
+    position: relative;
+    left:30px;
+    top:360px;
+    padding:10px;
+}
+.email{
+    text-align:30px;
+    color:white;
+    font-size:16px;
+    position: relative;
+    left:48px;
+    bottom:28px;
+}
+.site{
+    height:22px;
+    width:25px;
+    background-color:yellow;
+    position: relative;
+    left:30px;
+    top:370px;
+    padding:10px;
+}
+.website{
+    text-align:30px;
+    color:white;
+    font-size:16px;
+    position: relative;
+    left:48px;
+    bottom:30px;
+}
+.loc{
+    height:22px;
+    width:25px;
+    background-color:yellow;
+    position: relative;
+    left:30px;
+    top:380px;
+    padding:10px;
+}
+.loca{
+    text-align:30px;
+    color:white;
+    font-size:16px;
+    position: relative;
+    left:48px;
+    bottom:30px;
+}
+.edutext{
+    font-size:30px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:400px;
+    left:30px;
+}
+.hrline{
+    height:2px;
+    width:225px;
+    background-color:yellow;
+    position: relative;
+    top:380px;
+    left:30px;
+}
+.sch{
+    font-size:20px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:370px;
+    left:30px;
+}
+.year{
+    font-size:18px;
+    color: white;
+    position: relative;
+    top:353px;
+    left:30px;
+}
+
+.c{
+    height:130px;
+    width:519px;
+    background-color:rgb(247, 212, 14);
+    position: relative;
+    bottom:1700px;
+    left:209px;
+}
+.name{
+    font-size:30px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left:60px;
+}
+.occ{
+    font-size:20px;
+    color: black;
+    position: relative;
+    left:60px;
+    bottom:20px;
+}
+.dp{
+    height:210px;
+    width:200px;
+    background-color:white;
+    position: relative;
+    bottom:1870px;
+    left:30px;
+}
+.me{
+    height:210px;
+    width:200px;
+}
+.edu1{
+    font-size:40px;
+    color:black;
+    position: relative;
+    bottom:1900px;
+    left:300px;
+}
+.hrline1{
+    height:3px;
+    width:430px;
+    background-color:yellow;
+    position: relative;
+    bottom:1920px;
+    left:298px;
+}
+.pp{
+    font-size: 20px;
+    color:black;
+    position: relative;
+    bottom:1900px;
+    left:302px;
+    
+}
+.matter{
+    font-size:20px;
+    position: relative;
+    bottom:1900px;
+    left:300px;
+}

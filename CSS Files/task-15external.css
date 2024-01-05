@@ -1,0 +1,163 @@
+.main{
+    height:200%;
+    width:100%;
+    background-color:blueviolet;
+    
+}
+.ghu{
+    text-align: center;
+    color: white;
+    font-size:25px;
+
+}
+.ra{
+    text-align: center;
+    color: white;
+    font-size:30px;
+    
+}
+.video{
+    height:400px;
+    width:300px;
+    background-color:white;
+    border-radius:15px;
+    position: relative;
+    left:150px;
+    top:50px;
+    
+}
+.production{
+    height:160px;
+    width:200px;
+    position: relative;
+    top:50px;
+    left:50px;
+}
+.vmatter{
+    font-size:30px;
+    position: relative;
+    top:30px;
+    left:40px;
+}
+.v1{
+    text-align:center;
+}
+.more{
+    height:40px;
+    width:100px;
+    background-color: blueviolet;
+    border-radius:20px;
+    position: relative;
+    left:100px;
+}
+.mo{
+    text-align: center;
+    position: relative;
+    top:10px;
+}
+.seo{
+    height:400px;
+    width:300px;
+    background-color:white;
+    border-radius:15px;
+    position: relative;
+    left:590px;
+    bottom:350px;
+}
+.opti{
+    height:200px;
+    width:200px;
+    position: relative;
+    left:50px;
+    top:40px;
+}
+.vmatter1{
+    font-size:30px;
+    position: relative;
+    top:10px;
+    left:40px;
+}
+.v2{
+    text-align:center;
+    position: relative;
+    bottom:20px;
+}
+.more1{
+    height:40px;
+    width:100px;
+    background-color: blueviolet;
+    border-radius:20px;
+    position: relative;
+    left:100px;
+    bottom:25px;
+}
+.mo1{
+    text-align: center;
+    position: relative;
+    top:10px;
+}
+.cloud{
+    height:400px;
+    width:300px;
+    background-color:white;
+    border-radius:15px;
+    position: relative;
+    left:1030px;
+    bottom:750px;
+}
+.cloudpic{
+    height:200px;
+    width:200px;
+    position: relative;
+    left:50px;
+    top:40px;
+}
+.happy{
+    height:400px;
+    width:300px;
+    background-color:white;
+    border-radius:15px;
+    position: relative;
+    top:100px;
+    right:880px;
+
+}
+.hpy{
+    height:200;
+    width:200px;
+    position: relative;
+    top:30px;
+    left:50px;
+}
+.marketing{
+    height:400px;
+    width:300px;
+    background-color:white;
+    border-radius:15px;
+    position: relative;
+    bottom:300px;
+    right:450px;
+}
+.mark{
+    height:200;
+    width:200px;
+    position: relative;
+    top:30px;
+    left:50px;
+}
+.podcast{
+    height:400px;
+    width:300px;
+    background-color:white;
+    border-radius:15px;
+    position: relative;
+    bottom:700px;
+
+}  
+.pod{
+    height:200;
+    width:200px;
+    position: relative;
+    top:30px;
+    left:50px;
+}  
