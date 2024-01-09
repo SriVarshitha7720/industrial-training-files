@@ -1,0 +1,134 @@
+.a{
+    height: 100%;
+    width: 100%;
+    background-color:white;
+    border: 4px solid black;
+    
+}
+.text{
+    color: black;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    left: 550px;
+}
+.a1{
+    height: 350px;
+    width: 1030px;
+    background-color: rgb(235, 241, 243);
+    position: relative;
+    top: 50px;
+    left: 210px;
+}
+.a2{
+    color: black;
+    font-size: 17px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.form1{
+    color: black;
+    font-size: 12px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+.form2{
+    position: relative;
+    top: 70px;
+    right: 45px;
+}
+.form3{
+    color: black;
+    font-size: 12px;
+    position: relative;
+    top: 40px;
+    left: 18px;
+}
+.form4{
+    position: relative;
+    top: 70px;
+    right: 85px;
+}
+.form5{
+    color: black;
+    font-size: 12px;
+    position: relative;
+    top: 100px;
+    right: 490px;
+}
+.form6{
+    position: relative;
+    top: 130px;
+    right: 550px;
+}
+.form7{
+    color: black;
+    font-size: 12px;
+    position: relative;
+    top: 165px;
+    right: 720px;
+}
+.form8{
+    position: relative;
+    top: 230px;
+    right: 765px;
+}
+.form9{
+    background-color: rgb(47, 47, 252);
+    border: 1px solid rgb(47, 47, 252) ;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 250px;
+    left: 30px;
+}
+.a3{
+    height: 350px;
+    width: 500px;
+    background-color: antiquewhite;
+    float: right;
+    position: relative;
+    bottom: 97px;
+}
+.b{
+    height: 300px;
+    width: 1000px;
+}
+.b1{
+    height: 150px;
+    width: 150px;
+    
+   float: left;
+   position: relative;
+   top: 278px;
+   left: 50px;
+}
+.c{
+    height: 150px;
+    width: 150px;
+    margin-left: 25px;
+    float: left;
+    position: relative;
+    top: 290px;
+    left: 150px;
+}
+.d{
+    height: 150px;
+    width: 150px;
+    margin-left: 25px;
+    float: left;
+    position: relative;
+    top: 290px;
+    left: 220px;
+}
+.e{
+    height: 150px;
+    width: 150px;
+    margin-left: 25px;
+    float: left;
+    position: relative;
+    top: 136px;
+    left: 870px;
+}

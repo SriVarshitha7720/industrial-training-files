@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>TRANSITION IN CSS</title>
+        <style>
+            #one{
+                height:200px;
+                width:200px;
+                background-color: aqua;
+                float: left;
+                margin-right: 20px;
+                border: 1px solid black;
+                 transition: all 3s linear 2s;/*short-hand property */
+                 /* individual */
+                /* transition-property: background-color;
+                transition-delay: 3s;
+                transition-duration: 4s;
+                transition-timing-function: linear; */
+            }
+            #one:hover{
+                width:200px;
+                background-color: crimson;
+                margin-top: 50px;
+                transform: rotate(180deg);
+                border-radius: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <center><h1>Transition in CSS</h1></center>
+        <hr>
+        <div id="one">
+
+        </div>
+    </body>
+</html>

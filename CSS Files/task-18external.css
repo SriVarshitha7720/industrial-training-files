@@ -1,0 +1,182 @@
+.main{
+    height:150%;
+    width:130%;
+    background-color: rgb(222, 248, 248);
+}
+.header{
+    height:10%;
+    width:100%;
+    background-color: rgb(100, 100, 226);
+}
+.weather{
+    font-size:30px;
+    color:white;
+    text-align: center;
+    position: relative;
+    top:15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.form{
+    height:90%;
+    width:30%;
+    background-color: rgb(222, 248, 248);
+    position: relative;
+    /* top:20%; */
+
+}
+.enter{
+    font-size: 25px;
+    position: relative;
+    left:30px;
+}
+.eg{
+    height:40px;
+    width:400px;
+    background-color:white;
+    position: relative;
+    left:30px;
+}
+.etext{
+    font-size:20px;
+    color: darkgray;
+    position: relative;
+    left:10px;
+    top:10px;
+
+}
+.search{
+    height:40px;
+    width:400px;
+    background-color:rgb(100, 100, 226);
+    position: relative;
+    left:30px;
+
+}
+.searchtext{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left:170px;
+    top:10px;
+}
+.or{
+    font-size:25px;
+    color: gray;
+}
+.use{
+    height:40px;
+    width:400px;
+    background-color:gray;
+    position: relative;
+    left:1px;
+
+}
+.cu{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left:120px;
+    top:5px;
+
+}
+.london{
+    height:200px;
+    width:74%;
+    background-color:rgb(100, 100, 226);
+    position: relative;
+    bottom:930px;
+    left:490px;
+
+}
+.lon{
+    font-size:25px;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:20px;
+    left:35px;
+
+}
+.temp{
+    font-size:20px;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:20px;
+    left:35px;
+}
+.rainimg{
+    height:70px;
+    width:70px;
+    background-color:aliceblue;
+    position: relative;
+    left: 1200px;
+    bottom:140px;
+
+}
+.rain{
+    height:70px;
+    width:70px;
+    
+}
+.belowimgtext{
+    font-size:20px;
+    color: white;
+    position: relative;
+    left:1180px;
+    bottom:150px;
+}
+.day{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    bottom:110px;
+}
+.a{
+    height:350px;
+    width:300px;
+    background-color: gray;
+    position: relative;
+    bottom:110px;
+}
+.date{
+    font-size:30px;
+    color: white;
+    position: relative;
+    left:30px;
+    top:20px;
+}
+.suncloud{
+    height:70px;
+    width:70px;
+    position: relative;
+    left:40px;
+}
+.b{
+    height:350px;
+    width:300px;
+    background-color: gray;
+    position: relative;
+    bottom:490px;
+    left:330px;
+
+}
+.c{
+    height:350px;
+    width:300px;
+    background-color: gray;
+    position: relative;
+    bottom:870px;
+    left:660px;
+
+}
+.d{
+    height:350px;
+    width:300px;
+    background-color: gray;
+    position: relative;
+    bottom:1249px;
+    left:990px;
+
+}

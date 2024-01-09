@@ -1,0 +1,57 @@
+.main{
+    height: 150%;
+    width:100%;
+    background-color: aqua;
+}
+.left{
+    height:100%;
+    width:700px;
+    background-color:white;
+}
+.pic{
+    height:60%;
+    width:100%;
+    background-color:white;
+}
+.phone{
+    height:40%;
+    width:50%;
+    position: relative;
+    left:150px;
+    top:350px;
+}
+.create{
+    font-size:45px;
+    font-weight: bold;
+    position: relative;
+    left:150px;
+    bottom:60px;
+    
+}
+.matter{
+    font-size: 20px;
+    color:rgb(154, 154, 154);
+    position: relative;
+    left:150px;
+    bottom:90px;
+
+}
+/* .right{
+    height:700px;
+    width:755px;
+    background-color: chocolate;
+    float:right;
+    position: relative;
+    bottom:1200px;
+} */
+.name{
+    height:60px;
+    width:300px;
+    background-color:white;
+    position: relative;
+    bottom: 1030px;
+    left:800px;
+    text-align: center;
+    font-size: 20px;
+
+}

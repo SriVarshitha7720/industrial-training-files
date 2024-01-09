@@ -1,0 +1,162 @@
+.main{
+    height:110%;
+    width:100%;
+    background-color: white;
+    /* margin:20px; 
+    border:4px solid black;*/
+}
+.border{
+    height:98%;
+    width:98%;
+    background-color: aqua;
+    margin:10px;
+    /* margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10%; */
+    border:4px solid black;
+    position: relative;
+    top:10px;
+
+}
+.heading{
+    font-size:25px;
+    text-align: center;
+    position: relative;
+    bottom:750px;
+
+}
+.full{
+    height:500px;
+    width:1100px;
+    background-color:white;
+    position: relative;
+    bottom:740px;
+    left:170px;
+}
+.left{
+    height: 500px;
+    width:60%;
+    background-color: rgb(232, 242, 242);
+}
+.contact{
+    font-size:20px;
+    position: relative;
+    left:30px;
+    top:30px;
+}
+.fN{
+    font-size:20px;
+    position: relative;
+    left:30px;
+}
+.name{
+    height:40px;
+    width:300px;
+    background-color:white;
+    position: relative;
+    left:30px;
+}
+.n1{
+    font-size:20px;
+    color: rgb(189, 189, 189);
+    position: relative;
+    left:10px;
+    top:5px;
+
+}
+.em{
+    font-size:20px;
+    position: relative;
+    left:365px;
+    bottom:100px;
+}
+.email{
+    height:40px;
+    width:300px;
+    background-color:white;
+    position: relative;
+    left:350px;
+    bottom:102px;
+
+}
+.e1{
+    font-size:20px;
+    color: rgb(189, 189, 189);
+    position: relative;
+    left:10px;
+    top:5px;
+
+}
+.sub{
+    font-size:20px;
+    position: relative;
+    left:30px;
+    bottom:100px;
+}
+.subject{
+    height:40px;
+    width:600px;
+    background-color:white;
+    position: relative;
+    left:30px;
+    bottom:102px;
+
+}
+.s1{
+    font-size:20px;
+    color: rgb(189, 189, 189);
+    position: relative;
+    left:10px;
+    top:5px;
+
+}
+.mes{
+    font-size:20px;
+    position: relative;
+    left:30px;
+    bottom:100px;
+}
+.message{
+    height:60px;
+    width:600px;
+    background-color:white;
+    position: relative;
+    left:30px;
+    bottom:102px;
+
+}
+.mes1{
+    font-size:20px;
+    color: rgb(189, 189, 189);
+    position: relative;
+    left:10px;
+    top:5px;
+
+}
+.button{
+    height:30px;
+    width:150px;
+    background-color:blue;
+    position: relative;
+    left:30px;
+    bottom:102px;
+    border-radius:5px;
+
+}
+.but{
+    font-size:20px;
+    color:white;
+    position: relative;
+    left:20px;
+    top:5px;
+
+}
+
+.right{
+    height:500px;
+    width:400px;
+    /* background-color: blue; */
+    position: relative;
+    left:600px;
+    bottom:400px;
+}
